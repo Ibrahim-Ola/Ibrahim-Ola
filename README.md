@@ -10,6 +10,29 @@ I am an experienced data scientist with a profound passion for data-related prob
 
 I am also a third-year PhD student in the Computing PhD program (Data Science Emphasis) at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/) where I use Machine Learning to improve snow products. 
 
+### Research Interest
+
+### Proficiency
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  alt="Python Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  alt="GitHub Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg"  alt="Kaggle Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  alt="Latex Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  alt="Linux Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"  alt="Markdown Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"  alt="Numpy Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"  alt="Opencv Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  alt="Pandas Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"  alt="Pycharm Logo" width="80px" height="80px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  alt="R Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  alt="RStudio Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"  alt="Sqlite Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"  alt="TensorFlow Logo" width="80px" height="80px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  alt="VScode Logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg"  alt="PyTorch Logo" width="70px" height="70px" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Ibrahim-Ola/Ibrahim-Ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
