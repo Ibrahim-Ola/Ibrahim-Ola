@@ -33,9 +33,9 @@ I am also a third-year PhD student in the Computing PhD program (Data Science Em
 
 * SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html))
 
-### Upcomming
+### Upcoming
 
-* AGU Seminar Presentation
+* AGU Conference Presentation
 * Publications
 
 
