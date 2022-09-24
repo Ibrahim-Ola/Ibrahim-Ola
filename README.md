@@ -1,9 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, my name is Ibrahim Alabi
------
 
 [<img src="https://img.shields.io/twitter/url?label=Follow%20me&url=https%3A%2F%2Ftwitter.com%2FAnalystIbrahim" />](https://twitter.com/AnalystIbrahim)
 
-### About me
+#
+
+### About Me
+
+I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building sophisticated Machine Learning pipelines for solving real-life problems. In addition, I am passionate about teaching state-of-the-art data mining concepts to people, and this GitHub account is filled with fun examples of the Machine Learning approach to problem-solving.
+
+I am also a third-year PhD student in the Computing PhD program (Data Science Emphasis) at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/) where I use Machine Learning to improve snow products. 
 
 <!--
 **Ibrahim-Ola/Ibrahim-Ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
