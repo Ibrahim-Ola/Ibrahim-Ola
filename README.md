@@ -39,6 +39,7 @@ I am also a third-year PhD student in the Computing PhD program (Data Science Em
 
 * AGU Conference Presentation
 * Publications
+* Stanford Graph Learning Workshop 2022
 
 
 
