@@ -29,17 +29,17 @@ I am also a third-year PhD student in the Computing PhD program (Data Science Em
 
 
 
-### Workshop Presentation
+### Workshop and Conference Presentations
 
 * SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-hackweek.github.io/website/tutorials/machine-learning/Machine_Learning_Tutorial.html))
 
 * SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html))
 
+* AGU 2022 Paper presentation
+
 ### Upcoming
 
-* AGU Conference Presentation
 * Publications
-* Stanford Graph Learning Workshop 2022
 
 
 
