@@ -40,6 +40,7 @@ I am also a third-year PhD student in the Computing PhD program (Data Science Em
 ### Upcoming
 
 * Publications
+* SnowEx Hackweek 2023
 
 
 
