@@ -11,7 +11,7 @@
 
 I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building sophisticated Machine Learning pipelines for solving real-life problems. In addition, I am passionate about teaching state-of-the-art data mining concepts to people, and this GitHub account is filled with fun examples of the Machine Learning approach to problem-solving.
 
-I am also a third-year PhD student in the Computing PhD program (Data Science Emphasis) at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/) where I use Machine Learning to improve snow products. 
+I am also a third-year PhD student in the Computing PhD program (Data Science Emphasis) at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/) where I use Machine Learning to improve snow products. I will be working with [zData inc.](https://zdatainc.com/) this summer (2023) as a Data Science Intern.
 
 ### Research Interest
 
