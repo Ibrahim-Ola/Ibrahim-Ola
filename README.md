@@ -11,15 +11,16 @@
 
 I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building sophisticated Machine Learning pipelines for solving real-life problems. In addition, I am passionate about teaching state-of-the-art data mining concepts to people, and this GitHub account is filled with fun examples of the Machine Learning approach to problem-solving.
 
-I am also a third-year PhD student in the Computing PhD program (Data Science Emphasis) at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/) where I use Machine Learning to improve snow products. I will be working with [zData inc.](https://zdatainc.com/) this summer (2023) as a Data Science Intern.
+I am also a fourth-year PhD student in the Computing PhD program (Data Science Emphasis) at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/) where I use Machine Learning to improve snow products. I worked with [zData inc.](https://zdatainc.com/) in summer (2023) as a Data Science Intern. During my time at zData inc. I worked Natural Language Processing. I specifically worked on Named Entity Recognition and Large Language Model (LLM) applications on private data (e.g., Retrieval Augmented Generation).
 
 ### Research Interest
 
-* Machine Learning for Snow Science
-* Deep Learning
-* Statistical Machine Learning
-* Natural Language Processing
-* Computer Vision
+* Machine Learning for Snow Science.
+* Deep Learning.
+* Statistical Machine Learning.
+* Natural Language Processing.
+* Computer Vision.
+* LLM Applications
 
 
 ### Proficiency
@@ -31,16 +32,25 @@ I am also a third-year PhD student in the Computing PhD program (Data Science Em
 
 ### Workshop and Conference Presentations
 
-* SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html))
+* SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
 
-* SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html))
+* SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
 
-* AGU 2022 Paper presentation
+* GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
+
+* AGU 2022 Paper presentation.
 
 ### Upcoming
 
-* Publications
-* SnowEx Hackweek 2023
+* Publications.
+* AGU 2023.
+
+
+### Publications
+
+* Google Scholar: ([link](https://scholar.google.com/citations?user=3_S_WFwAAAAJ&hl=en)).
+
+
 
 
 
