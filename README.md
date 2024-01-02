@@ -1,4 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, my name is Ibrahim Alabi
+
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 [<img src="https://img.shields.io/twitter/url?label=Follow%20me&url=https%3A%2F%2Ftwitter.com%2FAnalystIbrahim" />](https://twitter.com/AnalystIbrahim)
 <!--
@@ -9,7 +10,7 @@
 
 ### About Me
 
-I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building sophisticated Machine Learning pipelines for solving real-life problems. In addition, I am passionate about teaching state-of-the-art data mining concepts to people, and this GitHub account is filled with fun examples of the Machine Learning approach to problem-solving.
+My name is Ibrahim ALabi. I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building sophisticated Machine Learning pipelines for solving real-life problems. In addition, I am passionate about teaching state-of-the-art data mining concepts to people, and this GitHub account is filled with fun examples of the Machine Learning approach to problem-solving.
 
 I am also a fourth-year PhD student in the Computing PhD program (Data Science Emphasis) at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/) where I use Machine Learning to improve snow products. I worked with [zData inc.](https://zdatainc.com/) in summer (2023) as a Data Science Intern. During my time at zData inc. I worked Natural Language Processing. I specifically worked on Named Entity Recognition and Large Language Model (LLM) applications on private data (e.g., Retrieval Augmented Generation).
 
