@@ -62,14 +62,20 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 * GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
 
-### Upcoming
+
+## Publications
+
+* Google Scholar: ([link](https://scholar.google.com/citations?user=3_S_WFwAAAAJ&hl=en)).
+
+
+## Upcoming
 
 * Paper Publications in the Frontiers in Remote Sensing Journal.
 
 
-### Publications
+## &#x1f4c8; GitHub Stats
 
-* Google Scholar: ([link](https://scholar.google.com/citations?user=3_S_WFwAAAAJ&hl=en)).
+[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Ola)](https://github.com/Ibrahim-Ola/github-readme-stats)
 
 
 
