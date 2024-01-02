@@ -50,6 +50,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"  alt="GCP Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"  alt="Azure Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS Logo" width="70px" height="70px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="Matlab Logo" width="70px" height="70px" />
 
 
 
