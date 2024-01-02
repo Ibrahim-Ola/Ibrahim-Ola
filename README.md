@@ -63,6 +63,8 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 * GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
 
+* AGU Fall Meeting 2022 and 2023.
+
 
 ## Publications
 
