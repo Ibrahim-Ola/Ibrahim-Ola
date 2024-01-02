@@ -17,7 +17,6 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 * Machine Learning.
 * Deep Learning.
-* Statistical Machine Learning.
 * Natural Language Processing.
 * Computer Vision.
 * Geospatial Analysis.
