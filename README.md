@@ -54,20 +54,17 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 
 
-### Workshop and Conference Presentations
-
-* SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
+## Selected Workshop and Conference Presentations
 
 * SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
 
-* GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
+* SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
 
-* AGU 2022 Paper presentation.
+* GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
 
 ### Upcoming
 
-* Publications.
-* AGU 2023.
+* Paper Publications in the Frontiers in Remote Sensing Journal.
 
 
 ### Publications
