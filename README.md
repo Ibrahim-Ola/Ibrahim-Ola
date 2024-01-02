@@ -75,7 +75,9 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 ## &#x1f4c8; GitHub Stats
 
-[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Ola)](https://github.com/Ibrahim-Ola/github-readme-stats)
+<a href="https://github.com/Ibrahim-Ola/Ibrahim-Ola">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Ola&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 
 
