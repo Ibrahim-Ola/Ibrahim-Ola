@@ -54,6 +54,9 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-plain.svg"  alt="OpenAI Logo" width="70px" height="70px" />
 
 
+## Publication
+
+1. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo.
 
 ## Selected Workshop and Conference Presentations
 
