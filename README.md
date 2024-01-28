@@ -54,30 +54,40 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-plain.svg"  alt="OpenAI Logo" width="70px" height="70px" />
 
 
-## Publication
-
-1. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo.
-
-## Selected Workshop and Conference Presentations
-
-* SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
-
-* SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
-
-* GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
-
-* AGU Fall Meeting 2022 and 2023.
-
-
 ## Publications
 
-* Google Scholar: ([link](https://scholar.google.com/citations?user=3_S_WFwAAAAJ&hl=en)).
+1. Meloche, Julien, Lemmetyinen, Juha, Meyer, Kaitlin, **Alabi, Ibrahim**, Vuyovich, Carrie, Stuefer, Sveta, Marshall, Hans-Peter, Durand, Michael, & Langlois, Alexandre. (2023). SnowEx23 Laser Snow Microstructure Specific Surface Area Data, Version 1 [dataset]. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/BSEP59ADC6XN
+
+2. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo. https://doi.org/10.5281/ZENODO.5590433
+
+3. Median Survival Time and the Predictors of Malaria Mortality Among Under-Five Children: An Analysis of Tudun Murtala Primary Health Center – Kano State, Nigeria (Submitted).
+
+## Conferences
+
+1. **Alabi, I. O.**, Marshall, H. P., Mead, J., & Ofekeze, E. (2022, December). How Transferable are Our Models? A Case Study of Idaho SNOTEL Sites. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0365).
+
+2. Ofekeze, E., Marshall, H. P., Mead, J., & **Alabi, I. O.** (2022, December). A Machine Learning Framework for Active and Passive Microwave Observation from Snow Water Equivalent Synthetic Aperture Radar And Radiometer (SWESARR) for Snow Depth Estimation. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0364).
+
+3. Arendt, A. A., Marshall, H. P., Henderson, S. T., Vuyovich, C., Haley, C., Reckase, G., ..., **Alabi, I. O.** & Meyer, J. (2022, December). Lessons Learned from SnowEx 2022 Hackweek for Fostering Open Science Communities. In AGU Fall Meeting Abstracts (Vol. 2022, pp. ED16B-04).
+
+## Workshops 
+
+1. GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
+
+2. SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
+
+3. SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
+
+## Recognition
+
+* Analyzing Kickstarter Videos with Machine Learning: [West Big Data Innovation Hub](https://www.westbigdatahub.org/post/boise-state-university-graduate-students-use-big-data-to-analyze-kickstarter-videos).
 
 
-## Upcoming
+## &#x1f4c8; GitHub Stats
 
-* Paper Publications in the Frontiers in Remote Sensing Journal.
-
+<a href="https://github.com/Ibrahim-Ola/Ibrahim-Ola">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Ola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ibrahim's GitHub Stats" />
+</a>
 
 
 
