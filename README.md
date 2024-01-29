@@ -22,6 +22,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 * Geospatial Analysis.
 * Snow Science.
 * LLM Applications.
+* Remote Sensing.
 
 
 ## 🔧 Technologies & Tools
