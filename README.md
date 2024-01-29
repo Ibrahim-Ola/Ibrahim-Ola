@@ -17,12 +17,12 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 * Machine Learning.
 * Deep Learning.
-* Natural Language Processing.
 * Computer Vision.
 * Geospatial Analysis.
 * Snow Science.
 * LLM Applications.
 * Remote Sensing.
+* Natural Language Processing.
 
 
 ## 🔧 Technologies & Tools
