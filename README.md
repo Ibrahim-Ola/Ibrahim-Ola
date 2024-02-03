@@ -63,7 +63,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 3. Median Survival Time and the Predictors of Malaria Mortality Among Under-Five Children: An Analysis of Tudun Murtala Primary Health Center – Kano State, Nigeria (Submitted).
 
-## Conferences
+## Selected Conferences
 
 1. **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023). Harnessing L-Band InSAR and Lidar Data Through Machine Learning for Accurate Snow Depth Estimation in Grand Mesa, Colorado. AGU23.
 
