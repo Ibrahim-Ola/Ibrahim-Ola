@@ -83,6 +83,8 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 3. SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
 
+4. Modeling Under Various Assumption Violations, 2018.
+
 ## Recognition
 
 * Analyzing Kickstarter Videos with Machine Learning: [West Big Data Innovation Hub](https://www.westbigdatahub.org/post/boise-state-university-graduate-students-use-big-data-to-analyze-kickstarter-videos).
