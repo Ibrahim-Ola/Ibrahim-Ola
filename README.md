@@ -79,13 +79,15 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 ## Workshops 
 
-1. GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
+1. NASA Earth Sciences & UW Hackweek 2024, Neural Networks with PyTorch ([link](https://snowex-2024.hackweek.io/tutorials/NN_with_Pytorch/intro.html)).
 
-2. SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
+2. GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart.hackweek.io/)).
 
-3. SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
+3. SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
 
-4. Modeling Under Various Assumption Violations, 2018.
+4. SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
+
+5. Modeling Under Various Assumption Violations, 2018.
 
 ## Recognition
 
