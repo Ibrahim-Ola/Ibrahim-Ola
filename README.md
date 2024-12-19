@@ -10,7 +10,7 @@
 
 ## About Me
 
-My name is Ibrahim Alabi. I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise lies in building end-to-end Machine Learning pipelines for solving real-life problems. I am currently a Ph.D. candidate in Computer Science with a Data Science Emphasis at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/). My research focuses on using Machine Learning to improve snow products. 
+My name is Ibrahim Alabi. I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building end-to-end Machine Learning pipelines for solving real-life problems. I am currently a Ph.D. candidate in Computer Science with a Data Science Emphasis at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/). My research focuses on using Machine Learning to improve snow products. 
 
 
 ## Research Interest
@@ -57,13 +57,14 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 ## Publications
 
-1. Meloche, Julien, Lemmetyinen, Juha, Meyer, Kaitlin, **Alabi, Ibrahim**, Vuyovich, Carrie, Stuefer, Sveta, Marshall, Hans-Peter, Durand, Michael, & Langlois, Alexandre. (2023). SnowEx23 Laser Snow Microstructure Specific Surface Area Data, Version 1 [dataset]. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/BSEP59ADC6XN
+1. Advancing Terrestrial Snow Depth Monitoring with Machine Learning and L-band InSAR Data: A Case Study Using SnowEx 2017 Data, in review.
+2. Meloche, Julien, Lemmetyinen, Juha, Meyer, Kaitlin, **Alabi, Ibrahim**, Vuyovich, Carrie, Stuefer, Sveta, Marshall, Hans-Peter, Durand, Michael, & Langlois, Alexandre. (2023). SnowEx23 Laser Snow Microstructure Specific Surface Area Data, Version 1 [dataset]. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/BSEP59ADC6XN
 
-2. Joachim Meyer, Anthony Arendt, Scott Henderson, Megan Mason, Zachary Keskinen, Evi Ofekeze, **Ibrahim Alabi**, Micah Johnson, Xiaolan Xu, Naheem Adebisi, Jack Tarricone, Micah Sandusky, Gail Reckase, Melissa Wrzesien, c-ackroyd, dylan boyd, HP Marshall, Eli Holmes, Romina Piunno, & Jessica Scheick. (2023). snowex-hackweek/website2022: SnowEx Hackweek 2022 (Version 20220725). Zenodo. https://doi.org/10.5281/zenodo.7616208
+3. Joachim Meyer, Anthony Arendt, Scott Henderson, Megan Mason, Zachary Keskinen, Evi Ofekeze, **Ibrahim Alabi**, Micah Johnson, Xiaolan Xu, Naheem Adebisi, Jack Tarricone, Micah Sandusky, Gail Reckase, Melissa Wrzesien, c-ackroyd, dylan boyd, HP Marshall, Eli Holmes, Romina Piunno, & Jessica Scheick. (2023). snowex-hackweek/website2022: SnowEx Hackweek 2022 (Version 20220725). Zenodo. https://doi.org/10.5281/zenodo.7616208
 
-3. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo. https://doi.org/10.5281/ZENODO.5590433
+4. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo. https://doi.org/10.5281/ZENODO.5590433
 
-4. Median Survival Time and the Predictors of Malaria Mortality Among Under-Five Children: An Analysis of Tudun Murtala Primary Health Center – Kano State, Nigeria (Submitted).
+5. Median Survival Time and the Predictors of Malaria Mortality Among Under-Five Children: An Analysis of Tudun Murtala Primary Health Center – Kano State, Nigeria (Submitted).
 
 ## Selected Conferences
 
