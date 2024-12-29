@@ -70,7 +70,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 ## Selected Conferences
 
-1. Marshall, Hans-Peter, Jack Tarricone, Zachary Keskinen, Shadi Oveisgharan, Randall Bonnell, Megan Mason, **Ibrahim Olalekan Alabi** et al. "Progress on L-band InSAR snow retrievals, for future NISAR application: Recent results from the 2020-2021 NASA SnowEx UAVSAR time series experiment." AGU24.
+1. Marshall, H. P., Tarricone, J., Keskinen, Z., Oveisgharan, S., Bonnell, R., Mason, M., **Alabi, I. O.**, ... & Forster, R. R. Progress on L-band InSAR snow retrievals, for future NISAR application: Recent results from the 2020-2021 NASA SnowEx UAVSAR time series experiment. AGU24.
   
 2. **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023). Harnessing L-Band InSAR and Lidar Data Through Machine Learning for Accurate Snow Depth Estimation in Grand Mesa, Colorado. AGU23.
 
