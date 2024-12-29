@@ -20,7 +20,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 * Computer Vision.
 * Geospatial Analysis.
 * Snow Science.
-* LLM Applications.
+* Large Language Model (LLM) Applications.
 * Remote Sensing.
 * Natural Language Processing.
 
