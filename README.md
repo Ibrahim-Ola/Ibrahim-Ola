@@ -58,7 +58,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 ## Publications
 
-1. Advancing Terrestrial Snow Depth Monitoring with Machine Learning and L-band InSAR Data: A Case Study Using SnowEx 2017 Data, https://doi.org/10.3389/frsen.2024.1481848 accepted in Frontiers (Dec. 24). Proper citation available shortly.
+1. **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) "Advancing Terrestrial Snow Depth Monitoring with Machine Learning and L-band InSAR Data: A Case Study Using SnowEx 2017 Data." https://doi.org/10.3389/frsen.2024.1481848
 
 2. Meloche, Julien, Lemmetyinen, Juha, Meyer, Kaitlin, **Alabi, Ibrahim**, Vuyovich, Carrie, Stuefer, Sveta, Marshall, Hans-Peter, Durand, Michael, & Langlois, Alexandre. (2023). SnowEx23 Laser Snow Microstructure Specific Surface Area Data, Version 1 [dataset]. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/BSEP59ADC6XN
 
