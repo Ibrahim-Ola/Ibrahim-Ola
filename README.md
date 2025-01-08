@@ -66,8 +66,6 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 4. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo. https://doi.org/10.5281/ZENODO.5590433
 
-5. Median Survival Time and the Predictors of Malaria Mortality Among Under-Five Children: An Analysis of Tudun Murtala Primary Health Center – Kano State, Nigeria (Submitted).
-
 ## Selected Conferences
 
 1. Marshall, H. P., Tarricone, J., Keskinen, Z., Oveisgharan, S., Bonnell, R., Mason, M., **Alabi, I. O.**, ... & Forster, R. R. Progress on L-band InSAR snow retrievals, for future NISAR application: Recent results from the 2020-2021 NASA SnowEx UAVSAR time series experiment. AGU24.
