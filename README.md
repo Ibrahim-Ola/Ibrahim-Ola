@@ -70,17 +70,19 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 ## Selected Conferences
 
-1. Marshall, H. P., Tarricone, J., Keskinen, Z., Oveisgharan, S., Bonnell, R., Mason, M., **Alabi, I. O.**, ... & Forster, R. R. Progress on L-band InSAR snow retrievals, for future NISAR application: Recent results from the 2020-2021 NASA SnowEx UAVSAR time series experiment. AGU24.
+1. Ofekeze, E., Johnson, J. B., Marshall, H. P., & **Alabi, I. O.** (2024). A deep Learning Approach for Detecting Avalanche Signatures in Infrasound Waveform. AGU24.
+
+2. Marshall, H. P., Tarricone, J., Keskinen, Z., Oveisgharan, S., Bonnell, R., Mason, M., **Alabi, I. O.**, ... & Forster, R. R. Progress on L-band InSAR snow retrievals, for future NISAR application: Recent results from the 2020-2021 NASA SnowEx UAVSAR time series experiment. AGU24.
   
-2. **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023). Harnessing L-Band InSAR and Lidar Data Through Machine Learning for Accurate Snow Depth Estimation in Grand Mesa, Colorado. AGU23.
+3. **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023). Harnessing L-Band InSAR and Lidar Data Through Machine Learning for Accurate Snow Depth Estimation in Grand Mesa, Colorado. AGU23.
 
-3. Ofekeze, E., Marshall, H. P., Mead, J., Trujillo, E., & **Alabi, I. O.** (2023). Advancing Snow Water Equivalent Estimation with SWESARR. AGU23.
+4. Ofekeze, E., Marshall, H. P., Mead, J., Trujillo, E., & **Alabi, I. O.** (2023). Advancing Snow Water Equivalent Estimation with SWESARR. AGU23.
 
-4. **Alabi, I. O.**, Marshall, H. P., Mead, J., & Ofekeze, E. (2022, December). How Transferable are Our Models? A Case Study of Idaho SNOTEL Sites. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0365).
+5. **Alabi, I. O.**, Marshall, H. P., Mead, J., & Ofekeze, E. (2022, December). How Transferable are Our Models? A Case Study of Idaho SNOTEL Sites. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0365).
 
-5. Ofekeze, E., Marshall, H. P., Mead, J., & **Alabi, I. O.** (2022, December). A Machine Learning Framework for Active and Passive Microwave Observation from Snow Water Equivalent Synthetic Aperture Radar And Radiometer (SWESARR) for Snow Depth Estimation. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0364).
+6. Ofekeze, E., Marshall, H. P., Mead, J., & **Alabi, I. O.** (2022, December). A Machine Learning Framework for Active and Passive Microwave Observation from Snow Water Equivalent Synthetic Aperture Radar And Radiometer (SWESARR) for Snow Depth Estimation. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0364).
 
-6. Arendt, A. A., Marshall, H. P., Henderson, S. T., Vuyovich, C., Haley, C., Reckase, G., ..., **Alabi, I. O.** & Meyer, J. (2022, December). Lessons Learned from SnowEx 2022 Hackweek for Fostering Open Science Communities. In AGU Fall Meeting Abstracts (Vol. 2022, pp. ED16B-04).
+7. Arendt, A. A., Marshall, H. P., Henderson, S. T., Vuyovich, C., Haley, C., Reckase, G., ..., **Alabi, I. O.** & Meyer, J. (2022, December). Lessons Learned from SnowEx 2022 Hackweek for Fostering Open Science Communities. In AGU Fall Meeting Abstracts (Vol. 2022, pp. ED16B-04).
 
 ## Workshops 
 
