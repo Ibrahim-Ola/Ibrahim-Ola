@@ -102,11 +102,17 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="left"><img src="https://raw.githubusercontent.com/Ibrahim-Ola/Ibrahim-Ola/main/github-metrics.svg" /></p>
+
+
+<!--
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/Ibrahim-Ola/Ibrahim-Ola">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Ola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ibrahim's GitHub Stats" />
 </a>
 
-
+-->
 
 <!--
 **Ibrahim-Ola/Ibrahim-Ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
