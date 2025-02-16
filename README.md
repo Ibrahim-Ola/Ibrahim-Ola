@@ -101,7 +101,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 * Analyzing Kickstarter Videos with Machine Learning: [West Big Data Innovation Hub](https://www.westbigdatahub.org/post/boise-state-university-graduate-students-use-big-data-to-analyze-kickstarter-videos).
 
 
-
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Ibrahim-Ola/Ibrahim-Ola">
@@ -109,7 +109,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 </a>
 
 
-<!--
+
 **Ibrahim-Ola/Ibrahim-Ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
