@@ -54,6 +54,7 @@ My name is Ibrahim Alabi. I am an experienced data scientist with a profound pas
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="Matlab Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-plain.svg"  alt="OpenAI Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg"  alt="OpenAI Logo" width="70px" height="70px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  alt="Docker Logo" width="70px" height="70px" />
 
 
 ## Publications
