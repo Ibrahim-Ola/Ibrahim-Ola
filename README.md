@@ -10,7 +10,7 @@
 
 ## About Me
 
-My name is Ibrahim Alabi. I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building end-to-end Machine Learning pipelines for solving real-life problems. I am a Dr. of Computing  with an emphasis in Data Science. 
+My name is Ibrahim Alabi. I am a Dr. of Computing  with an emphasis in Data Science. I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building end-to-end Machine Learning pipelines for solving real-life problems. 
 
 
 ## Research Interest
