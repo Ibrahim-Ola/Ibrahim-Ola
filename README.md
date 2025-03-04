@@ -10,7 +10,7 @@
 
 ## About Me
 
-My name is Ibrahim Alabi. I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building end-to-end Machine Learning pipelines for solving real-life problems. I am currently a Ph.D. candidate in Computer Science with a Data Science Emphasis at [Boise State University](https://www.boisestate.edu/computing/directory/student-directory/ibrahim-olalekan-alabi/). My research focuses on using Machine Learning to improve snow products. 
+My name is Ibrahim Alabi. I am an experienced data scientist with a profound passion for data-related problem-solving. My expertise is in building end-to-end Machine Learning pipelines for solving real-life problems. I am a Dr. of Computing  with an emphasis in Data Science. 
 
 
 ## Research Interest
