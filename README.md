@@ -59,15 +59,17 @@ My name is Ibrahim Alabi. I am a Dr. of Computing  with an emphasis in Data Scie
 
 ## Publications
 
-1. **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) "Advancing Terrestrial Snow Depth Monitoring with Machine Learning and L-band InSAR Data: A Case Study Using SnowEx 2017 Data." https://doi.org/10.3389/frsen.2024.1481848
+1.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) A Machine Learning Model for Estimating Snow Density and Snow Water Equivalent from Snow Depth and Seasonal Snow Climate Classes, _in review_.
 
-2. Joachim Meyer, Micah Johnson, Megan Mason, dylan boyd, Scott Henderson, agentrrb, Jessica Scheick, Micah Sandusky, Brent Wilder, **Ibrahim O Alabi**, Mikala Beig, & Naomi Alterman. (2024). snowex-hackweek/website-2024: hackweek-2024 (Version 20241122). Zenodo. https://doi.org/10.5281/zenodo.14205550 
+2.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) "Advancing Terrestrial Snow Depth Monitoring with Machine Learning and L-band InSAR Data: A Case Study Using SnowEx 2017 Data." https://doi.org/10.3389/frsen.2024.1481848
 
-3. Meloche, Julien, Lemmetyinen, Juha, Meyer, Kaitlin, **Alabi, Ibrahim**, Vuyovich, Carrie, Stuefer, Sveta, Marshall, Hans-Peter, Durand, Michael, & Langlois, Alexandre. (2023). SnowEx23 Laser Snow Microstructure Specific Surface Area Data, Version 1 [dataset]. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/BSEP59ADC6XN
+3. Joachim Meyer, Micah Johnson, Megan Mason, dylan boyd, Scott Henderson, agentrrb, Jessica Scheick, Micah Sandusky, Brent Wilder, **Ibrahim O Alabi**, Mikala Beig, & Naomi Alterman. (2024). snowex-hackweek/website-2024: hackweek-2024 (Version 20241122). Zenodo. https://doi.org/10.5281/zenodo.14205550 
 
-4. Joachim Meyer, Anthony Arendt, Scott Henderson, Megan Mason, Zachary Keskinen, Evi Ofekeze, **Ibrahim Alabi**, Micah Johnson, Xiaolan Xu, Naheem Adebisi, Jack Tarricone, Micah Sandusky, Gail Reckase, Melissa Wrzesien, c-ackroyd, dylan boyd, HP Marshall, Eli Holmes, Romina Piunno, & Jessica Scheick. (2023). snowex-hackweek/website2022: SnowEx Hackweek 2022 (Version 20220725). Zenodo. https://doi.org/10.5281/zenodo.7616208
+4. Meloche, Julien, Lemmetyinen, Juha, Meyer, Kaitlin, **Alabi, Ibrahim**, Vuyovich, Carrie, Stuefer, Sveta, Marshall, Hans-Peter, Durand, Michael, & Langlois, Alexandre. (2023). SnowEx23 Laser Snow Microstructure Specific Surface Area Data, Version 1 [dataset]. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/BSEP59ADC6XN
 
-5. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo. https://doi.org/10.5281/ZENODO.5590433
+5. Joachim Meyer, Anthony Arendt, Scott Henderson, Megan Mason, Zachary Keskinen, Evi Ofekeze, **Ibrahim Alabi**, Micah Johnson, Xiaolan Xu, Naheem Adebisi, Jack Tarricone, Micah Sandusky, Gail Reckase, Melissa Wrzesien, c-ackroyd, dylan boyd, HP Marshall, Eli Holmes, Romina Piunno, & Jessica Scheick. (2023). snowex-hackweek/website2022: SnowEx Hackweek 2022 (Version 20220725). Zenodo. https://doi.org/10.5281/zenodo.7616208
+
+6. Henderson, S., Arendt, A., Meyer, J., Setiawan, L., Marshall, H.-P., Johnson, M., Mason, M., Lundquist, J., Pestana, S., Shean, D., Durand, M., Wrzesien, M., McAndrew, B., Ofekeze, E., **Alabi, I.**, Tarricone, J., Meehan, T., Webb, R., McGrath, D., … Koh, J. (2021). SnowEx Hackweek JupyterBook Tutorials. Zenodo. https://doi.org/10.5281/ZENODO.5590433
 
 ## Selected Conferences
 
