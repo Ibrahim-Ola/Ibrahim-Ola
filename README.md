@@ -56,6 +56,9 @@ My name is Ibrahim Alabi. I am a Dr. of Computing  with an emphasis in Data Scie
 <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg"  alt="OpenAI Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  alt="Docker Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg"  alt="GitHub Logo" width="70px" height="70px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  alt="PostGres Logo" width="70px" height="70px" />
+
+
 
 ## Publications
 
