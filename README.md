@@ -100,7 +100,7 @@ My name is Ibrahim Alabi. I am a Dr. of Computing  with an emphasis in Data Scie
 
 4. **Lead Tutor**, SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
 
-5. **R Programming Expert**, Modeling Under Various Assumption Violations, 2018.
+5. **R Programming Expert**, Modeling Under Various Assumption Violations, 2018 ([certificate of attendance](https://drive.google.com/file/d/1V6BFHZqUzUlIxTHchfn2Vs3xkyDwnPSd/view?usp=sharing)).
 
 ## Recognition
 
