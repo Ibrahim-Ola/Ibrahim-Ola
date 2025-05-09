@@ -57,6 +57,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  alt="Docker Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg"  alt="GitHub Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  alt="PostGres Logo" width="70px" height="70px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  alt="msqlserver Logo" width="70px" height="70px" />
 
 
 
