@@ -65,7 +65,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 1.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) A Machine Learning Model for Estimating Snow Density and Snow Water Equivalent from Snow Depth and Seasonal Snow Climate Classes, _in review_.
 
-2.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) Model Transferability and Accuracy-Resolution Trade-offs in Snow Depth Retrievals with Machine Learning and L-Band InSAR, _in prep_.
+2.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) Model Transferability and Accuracy-Resolution Trade-offs in Snow Depth Retrievals with Machine Learning and L-Band InSAR, _in preparatiob_.
 
 3.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) "Advancing Terrestrial Snow Depth Monitoring with Machine Learning and L-band InSAR Data: A Case Study Using SnowEx 2017 Data." https://doi.org/10.3389/frsen.2024.1481848.
 
