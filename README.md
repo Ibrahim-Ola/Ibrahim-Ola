@@ -81,7 +81,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 1. **Alabi, I. O.**, Marshall, H. P., Mead, J., & Trujillo, E. (2024, December). Leveraging L-band InSAR and Machine Learning for Enhanced Snow Depth Estimation. In AGU Fall Meeting Abstracts (Vol. 2024, pp. C41B-06).
 
-2. Ofekeze, E., Johnson, J. B., Marshall, H. P., & **Alabi, I. O.** (2024). A deep Learning Approach for Detecting Avalanche Signatures in Infrasound Waveform. AGU24.
+2. Ofekeze, E., Johnson, J. B., Marshall, H. P., & **Alabi, I. O.** (2024, December). A deep Learning Approach for Detecting Avalanche Signatures in Infrasound Waveform. In AGU Fall Meeting Abstracts (Vol. 2024, pp. C13D-01).
 
 3. Marshall, H. P., Tarricone, J., Keskinen, Z., Oveisgharan, S., Bonnell, R., Mason, M., **Alabi, I. O.**, ... & Forster, R. R. Progress on L-band InSAR snow retrievals, for future NISAR application: Recent results from the 2020-2021 NASA SnowEx UAVSAR time series experiment. AGU24.
   
