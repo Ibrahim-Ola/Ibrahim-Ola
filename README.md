@@ -87,7 +87,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
   
 4. **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023, December). Harnessing L-Band InSAR and Lidar Data Through Machine Learning for Accurate Snow Depth Estimation in Grand Mesa, Colorado. In AGU Fall Meeting Abstracts (Vol. 2023, No. 102, pp. C51G-102). **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023).
 
-5. Ofekeze, E., Marshall, H. P., Mead, J., Trujillo, E., & **Alabi, I. O.** (2023). Advancing Snow Water Equivalent Estimation with SWESARR. AGU23.
+5. Ofekeze, E., Marshall, H. P., Mead, J., Trujillo, E., & **Alabi, I. O.** (2023, December). Advancing Snow Water Equivalent Estimation with SWESARR. In AGU Fall Meeting Abstracts (Vol. 2023, No. 1017, pp. C51G-1017).
 
 6. **Alabi, I. O.**, Marshall, H. P., Mead, J., & Ofekeze, E. (2022, December). How Transferable are Our Models? A Case Study of Idaho SNOTEL Sites. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0365).
 
