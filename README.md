@@ -85,7 +85,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 3. Marshall, H. P., Tarricone, J., Keskinen, Z., Oveisgharan, S., Bonnell, R., Mason, M., **Alabi, I. O.**, ... & Forster, R. R. (2024, December). Progress on L-band InSAR snow retrievals, for future NISAR application: Recent results from the 2020-2021 NASA SnowEx UAVSAR time series experiment. In AGU Fall Meeting Abstracts (Vol. 2024, pp. C41B-05).
   
-4. **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023). Harnessing L-Band InSAR and Lidar Data Through Machine Learning for Accurate Snow Depth Estimation in Grand Mesa, Colorado. AGU23.
+4. **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023, December). Harnessing L-Band InSAR and Lidar Data Through Machine Learning for Accurate Snow Depth Estimation in Grand Mesa, Colorado. In AGU Fall Meeting Abstracts (Vol. 2023, No. 102, pp. C51G-102). **Alabi, I. O.**, Marshall, H. P., Mead, J., Trujillo, E., & Ofekeze, E. (2023).
 
 5. Ofekeze, E., Marshall, H. P., Mead, J., Trujillo, E., & **Alabi, I. O.** (2023). Advancing Snow Water Equivalent Estimation with SWESARR. AGU23.
 
