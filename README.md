@@ -101,7 +101,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 -->
 
-## Workshops 
+## Talks 
 
 1. **Lead Tutor**, NASA Earth Sciences & UW Hackweek 2024, Neural Networks with PyTorch ([link](https://snowex-2024.hackweek.io/tutorials/NN_with_Pytorch/intro.html)).
 
