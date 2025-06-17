@@ -61,7 +61,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 
 
-## Publications
+## Publications/ Conferences
 
 1.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) A Machine Learning Model for Estimating Snow Density and Snow Water Equivalent from Snow Depth and Seasonal Snow Climate Classes, _in review_.
 
