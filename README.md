@@ -63,6 +63,10 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 ## Publications/ Conferences
 
+* [Google Scholar](https://scholar.google.com/citations?user=3_S_WFwAAAAJ&hl=en)
+
+<!--
+
 1.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) A Machine Learning Model for Estimating Snow Density and Snow Water Equivalent from Snow Depth and Seasonal Snow Climate Classes, _in review_.
 
 2.  **Alabi, Ibrahim Olalekan**, Hans-Peter Marshall, Jodi Mead, and Ernesto Trujillo. (2025) Model Transferability and Accuracy-Resolution Trade-offs in Snow Depth Retrievals with Machine Learning and L-Band InSAR, _in preparation_.
@@ -94,6 +98,8 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 7. Ofekeze, E., Marshall, H. P., Mead, J., & **Alabi, I. O.** (2022, December). A Machine Learning Framework for Active and Passive Microwave Observation from Snow Water Equivalent Synthetic Aperture Radar And Radiometer (SWESARR) for Snow Depth Estimation. In AGU Fall Meeting Abstracts (Vol. 2022, pp. C52C-0364).
 
 8. Arendt, A. A., Marshall, H. P., Henderson, S. T., Vuyovich, C., Haley, C., Reckase, G., ..., **Alabi, I. O.** & Meyer, J. (2022, December). Lessons Learned from SnowEx 2022 Hackweek for Fostering Open Science Communities. In AGU Fall Meeting Abstracts (Vol. 2022, pp. ED16B-04).
+
+-->
 
 ## Workshops 
 
