@@ -32,7 +32,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  alt="Git Logo" width="80px" height="80px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  alt="GitHub Logo" width="50px" height="50px" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg"  alt="Kaggle Logo" width="50px" height="50px" /> 
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg"  alt="Kaggle Logo" width="50px" height="50px" /> -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  alt="Latex Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  alt="Linux Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"  alt="Markdown Logo" width="50px" height="50px" /> 
