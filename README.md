@@ -17,7 +17,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 * Machine Learning.
 * Deep Learning.
 * Computer Vision.
-* Geospatial Analysis .
+* Geospatial Analysis.
 * Snow Science.
 * Large Language Model (LLM) Applications.
 * Remote Sensing.
