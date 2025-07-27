@@ -118,7 +118,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 ## Want to Know More?
 
-* [Resume](https://drive.google.com/file/d/1DEW8DA4oeVpkrERPNEe3JW58jH0BvdHu/view?usp=sharing).
+* [Resume](https://drive.google.com/file/d/1DEW8DA4oeVpkrERPNEe3JW58jH0BvdHu/view?usp=sharing)
 
 
 <!--
