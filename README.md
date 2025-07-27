@@ -121,7 +121,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 * [Resume](https://drive.google.com/file/d/1DEW8DA4oeVpkrERPNEe3JW58jH0BvdHu/view?usp=sharing)
 
 
-<!--
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Ibrahim-Ola/Ibrahim-Ola">
@@ -129,7 +129,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 </a>
 
 
-
+<!--
 **Ibrahim-Ola/Ibrahim-Ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
