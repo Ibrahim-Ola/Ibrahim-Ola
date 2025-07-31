@@ -14,7 +14,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 ## Research Interest
 
-* Machine Learning.
+* Machine Learning .
 * Deep Learning.
 * Computer Vision.
 * Geospatial Analysis.
