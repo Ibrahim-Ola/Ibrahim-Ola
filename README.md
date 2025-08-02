@@ -116,7 +116,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 * Analyzing Kickstarter Videos with Machine Learning: [West Big Data Innovation Hub](https://www.westbigdatahub.org/post/boise-state-university-graduate-students-use-big-data-to-analyze-kickstarter-videos).
 
-## Want to Know More?
+## Want to Know More
 
 * [Resume](https://drive.google.com/file/d/1DEW8DA4oeVpkrERPNEe3JW58jH0BvdHu/view?usp=sharing)
 
