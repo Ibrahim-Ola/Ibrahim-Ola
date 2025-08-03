@@ -108,7 +108,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 3. **Lead Tutor**, SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
 
-4. **Lead Tutor**, SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
+4. **Lead Tutor**, SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)) .
 
 5. **R Programming Expert**, Modeling Under Various Assumption Violations, 2018 ([certificate of attendance](https://drive.google.com/file/d/1V6BFHZqUzUlIxTHchfn2Vs3xkyDwnPSd/view?usp=sharing)).
 
