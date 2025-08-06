@@ -1,5 +1,5 @@
 
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 [<img src="https://img.shields.io/twitter/url?label=Follow%20me&url=https%3A%2F%2Ftwitter.com%2FAnalystIbrahim" />](https://twitter.com/AnalystIbrahim)
 <!--
