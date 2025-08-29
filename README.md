@@ -104,7 +104,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 1. **Lead Tutor**, NASA Earth Sciences & UW Hackweek 2024, Neural Networks with PyTorch ([link](https://snowex-2024.hackweek.io/tutorials/NN_with_Pytorch/intro.html)).
 
-2. **Lead Tutor**, GeoSmart Hackweek 2023, Introduction to Machine Learning ([link](https://geosmart-2023.hackweek.io/tutorials/tree_models/Tree_Models_in_ML.html)).
+2. **Lead Tutor**, GeoSmart Hackweek 2023, Trr Models in Machine Learning ([link](https://geosmart-2023.hackweek.io/tutorials/tree_models/Tree_Models_in_ML.html)).
 
 3. **Lead Tutor**, SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
 
