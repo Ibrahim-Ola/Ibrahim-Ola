@@ -8,7 +8,7 @@
 
 #
 
-## About Me
+## About Me!
 
 My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science specialization. I am an experienced data scientist with a profound passion for data-driven problem-solving. My expertise lies in building end-to-end Machine Learning pipelines to solve real-life problems.
 
