@@ -8,7 +8,7 @@
 
 #
 
-## About Me
+## About Me!
 
 My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science specialization. I am an experienced data scientist with a profound passion for data-driven problem-solving. My expertise lies in building end-to-end Machine Learning pipelines to solve real-life problems.
 
@@ -24,7 +24,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 * Natural Language Processing.
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools!
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  alt="Python Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" width="70px" height="70px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI Logo" width="70px" height="70px" /> 
