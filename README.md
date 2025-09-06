@@ -21,7 +21,7 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 * Snow Science.
 * Large Language Model (LLM) Applications.
 * Remote Sensing.
-* Natural Language Processing
+* Natural Language Processing.
 
 
 ## 🔧 Technologies & Tools
