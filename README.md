@@ -120,6 +120,13 @@ My name is Ibrahim Alabi. I hold a PhD in Computing with a Data Science speciali
 
 * [Resume](https://drive.google.com/file/d/1DEW8DA4oeVpkrERPNEe3JW58jH0BvdHu/view?usp=sharing)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Ibrahim-Ola/Ibrahim-Ola">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Ola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ibrahim's GitHub Stats" />
+</a>
+
+
 
 <!--
 ## &#x1f4c8; GitHub Stats
