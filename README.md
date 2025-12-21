@@ -10,7 +10,7 @@
 
 ## About Me
 
-I have a profound passion for data-driven problem-solving. I love to build end-to-end Machine Learning pipelines to solve real-life problems.
+I am an applied machine learning scientist, and have a profound passion for data-driven problem-solving. I love to build end-to-end Machine Learning pipelines to solve real-life problems.
 
 ## Research Interest
 
