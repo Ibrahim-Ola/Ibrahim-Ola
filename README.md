@@ -21,7 +21,7 @@ I am an applied machine learning scientist, and have a profound passion for data
 * Snow Science.
 * Large Language Model (LLM) Applications.
 * Remote Sensing.
-* Natural Language Processing.
+* Natural Language Processing (e.g., LLMs).
 
 
 ## 🔧 Technologies & Tools
