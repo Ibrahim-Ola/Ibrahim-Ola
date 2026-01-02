@@ -111,9 +111,11 @@ I am an applied machine learning scientist, and I have a profound passion for da
 
 5. **R Programming Expert**, Modeling Under Various Assumption Violations, 2018 ([certificate of attendance](https://drive.google.com/file/d/1V6BFHZqUzUlIxTHchfn2Vs3xkyDwnPSd/view?usp=sharing)).
 
+<!--
 ## Recognition
 
 * Analyzing Kickstarter Videos with Machine Learning: [West Big Data Innovation Hub](https://www.westbigdatahub.org/post/boise-state-university-graduate-students-use-big-data-to-analyze-kickstarter-videos).
+-->
 
 ## Want to Know More?
 
