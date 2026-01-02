@@ -99,7 +99,7 @@ I am an applied machine learning scientist, and I have a profound passion for da
 
 -->
 
-## Talks 
+## Selected Talks 
 
 1. **Lead Tutor**, NASA Earth Sciences & UW Hackweek 2024, Neural Networks with PyTorch ([link](https://snowex-2024.hackweek.io/tutorials/NN_with_Pytorch/intro.html)).
 
