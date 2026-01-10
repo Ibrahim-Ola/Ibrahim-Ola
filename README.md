@@ -14,8 +14,8 @@ I am an applied machine learning scientist, and I have a profound passion for da
 
 ## Research Interest
 
-* Machine Learning,
-* Deep Learning,
+* Machine Learning.
+* Deep Learning.
 * Computer Vision.
 * Geospatial Analysis.
 * Snow Science.
