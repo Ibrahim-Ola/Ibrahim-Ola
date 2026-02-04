@@ -19,7 +19,7 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 * Computer Vision.
 * Geospatial Analysis.
 * Snow Science.
-* Remote Sensing.
+* Remote Sensing (i.e., lidar).
 * Natural Language Processing (e.g., LLMs and Conversational AI systems).
 
 
