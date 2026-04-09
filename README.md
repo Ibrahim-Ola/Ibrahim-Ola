@@ -23,9 +23,10 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 * Natural Language Processing (e.g., LLMs and Conversational AI systems).
 
 
-## 🔧 Technologies & Tools
+<!--## 🔧 Technologies & Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  alt="Python Logo" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" width="70px" height="70px" /> 
+-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI Logo" width="70px" height="70px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="70px" height="70px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50px" height="50px" /> 
