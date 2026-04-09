@@ -32,7 +32,6 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  alt="Git Logo" width="80px" height="80px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  alt="GitHub Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg"  alt="Kaggle Logo" width="50px" height="50px" />
--->
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  alt="Latex Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  alt="Linux Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"  alt="Markdown Logo" width="50px" height="50px" /> 
@@ -42,6 +41,7 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"  alt="Pycharm Logo" width="80px" height="80px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  alt="R Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  alt="RStudio Logo" width="50px" height="50px" /> 
+-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"  alt="Sqlite Logo" width="70px" height="70px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"  alt="TensorFlow Logo" width="80px" height="80px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  alt="VScode Logo" width="50px" height="50px" /> 
