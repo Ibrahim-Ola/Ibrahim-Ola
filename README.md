@@ -107,10 +107,11 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 2. **Lead Tutor**, GeoSmart Hackweek 2023, Tree Models in Machine Learning ([link](https://geosmart-2023.hackweek.io/tutorials/tree_models/Tree_Models_in_ML.html)).
 
 3. **Lead Tutor**, SnowEx Hackweek 2022, Introducton to Machine Learning ([link](https://snowex-2022.hackweek.io/tutorials/machine_learning/Machine_Learning_Tutorial.html)).
--->
+
 4. **Lead Tutor**, SnowEx Hackweek 2021, Introducton to Machine Learning ([link](https://snowex-2021.hackweek.io/tutorials/machine-learning/Machine_Learning_Tutorial.html)).
 
 5. **R Programming Expert**, Modeling Under Various Assumption Violations, 2018 ([certificate of attendance](https://drive.google.com/file/d/1V6BFHZqUzUlIxTHchfn2Vs3xkyDwnPSd/view?usp=sharing)).
+-->
 
 <!--
 ## Recognition
