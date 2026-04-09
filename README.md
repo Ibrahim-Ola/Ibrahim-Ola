@@ -49,7 +49,6 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"  alt="GCP Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"  alt="Azure Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS Logo" width="70px" height="70px" />
--->
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="Matlab Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-plain.svg"  alt="OpenAI Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg"  alt="OpenAI Logo" width="70px" height="70px" />
@@ -57,7 +56,7 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg"  alt="GitHub Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  alt="PostGres Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  alt="msqlserver Logo" width="70px" height="70px" />
-
+-->
 
 
 ## Publications
