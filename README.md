@@ -41,7 +41,6 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg"  alt="Pycharm Logo" width="80px" height="80px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  alt="R Logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  alt="RStudio Logo" width="50px" height="50px" /> 
--->
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"  alt="Sqlite Logo" width="70px" height="70px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"  alt="TensorFlow Logo" width="80px" height="80px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  alt="VScode Logo" width="50px" height="50px" /> 
@@ -50,6 +49,7 @@ I am an applied machine learning scientist. I have a profound passion for data-d
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"  alt="GCP Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"  alt="Azure Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS Logo" width="70px" height="70px" />
+-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="Matlab Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-plain.svg"  alt="OpenAI Logo" width="70px" height="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg"  alt="OpenAI Logo" width="70px" height="70px" />
