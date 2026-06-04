@@ -119,13 +119,11 @@ I am an applied machine learning scientist. I have a passion for data-driven pro
 * Analyzing Kickstarter Videos with Machine Learning: [West Big Data Innovation Hub](https://www.westbigdatahub.org/post/boise-state-university-graduate-students-use-big-data-to-analyze-kickstarter-videos).
 -->
 
-<!--
 
 ## Want to Know More?
 
 * [Resume](https://drive.google.com/file/d/1DEW8DA4oeVpkrERPNEe3JW58jH0BvdHu/view?usp=sharing)
 
--->
 
 <!--
 ## &#x1f4c8; GitHub Stats
