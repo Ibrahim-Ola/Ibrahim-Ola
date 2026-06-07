@@ -16,7 +16,7 @@ I am an applied machine learning scientist. I have a passion for data-driven pro
 
 * Machine Learning;
 * Deep Learning;
-* Computer Vision.
+* Computer Vision;
 * Geospatial Analysis.
 * Snow Science.
 * Remote Sensing (i.e., lidar and InSAR).
