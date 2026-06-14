@@ -8,7 +8,7 @@
 
 #
 
-## About Me!
+## About Me
 
 I am an applied machine learning scientist. I have a passion for data-driven problem-solving and love to build end-to-end Machine Learning pipelines to solve real-life problems.
 
